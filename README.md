@@ -26,6 +26,7 @@ Pinecone (Vector Database)
 Project Structure
 ---------------------------------------------------------------------
 medical-pdf-rag/
+
 │
 ├── data/
 │   └── Medical_book.pdf
